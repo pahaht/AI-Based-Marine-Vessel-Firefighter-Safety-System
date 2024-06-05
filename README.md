@@ -7,15 +7,15 @@ It should be noted that these protective devices are wearable. All the data reco
 sensor-equipped fire protection device will be sent in real-time to the fireboat located near 
 the burning ship using Bluetooth Beacon.
 
-![alt text]( https://github.com/pahaht/Human-emotion-analysis-based-on-voice-emotion-recognition-using-CNN/blob/main/images/scenario.JPG)
+![alt text]( https://github.com/pahaht/AI-Based-Marine-Vessel-Firefighter-Safety-System/blob/main/images/scenario.JPG)
 
 ### *Input data measurement range*
-![alt text]( https://github.com/pahaht/Human-emotion-analysis-based-on-voice-emotion-recognition-using-CNN/blob/main/images/datameasure.JPG)
+![alt text]( https://github.com/pahaht/AI-Based-Marine-Vessel-Firefighter-Safety-System/blob/main/images/datameasure.JPG)
 
 ### *Dataset*
-![alt text]( https://github.com/pahaht/Human-emotion-analysis-based-on-voice-emotion-recognition-using-CNN/blob/main/images/dataset.JPG)
+![alt text]( https://github.com/pahaht/AI-Based-Marine-Vessel-Firefighter-Safety-System/blob/main/images/dataset.JPG)
 
 
 ### *Model Architecture*
-![alt text]( https://github.com/pahaht/Human-emotion-analysis-based-on-voice-emotion-recognition-using-CNN/blob/main/images/architecture.JPG)
+![alt text]( https://github.com/pahaht/AI-Based-Marine-Vessel-Firefighter-Safety-System/blob/main/images/architecture.JPG)
 
